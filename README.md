@@ -1,4 +1,4 @@
-<h2 align="left" style = "color: #8a5bb9 text-decoration: none">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h1>
 
 ###
 
