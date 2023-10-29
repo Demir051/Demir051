@@ -1,4 +1,4 @@
-<h2 align="left" style="color:white;">Hi 👋! My name is Demir and I'm a Backend Developer</h2>
+**Hi 👋! My name is Demir and I'm a Backend Developer**
 
 ###
 
