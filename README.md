@@ -1,4 +1,4 @@
-Hi 👋 ! My name is <b>Demir</b> and I'm a <b>Backend Developer</b>
+Hi 👋 ! My name is <b>Demir</b> and I'm a <b>Web Developer</b>
 <hr>
 
 **💻 Tech Stack :**
