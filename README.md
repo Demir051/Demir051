@@ -1,4 +1,4 @@
-Hi 👋 ! My name is <b><u>Ahmet Demir</u></b> and I'm a <b><u>Software Developer 👨🏻‍💻</u></b>
+Hi 👋 ! My name is <b>Ahmet Demir</b> and I'm a <b>Software Developer 👨🏻‍💻</b>
 <hr>
 
 **💻 Tech Stack :**
